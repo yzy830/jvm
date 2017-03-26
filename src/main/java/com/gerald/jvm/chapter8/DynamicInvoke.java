@@ -6,7 +6,7 @@ import java.util.function.Predicate;
  * 本案例使用lambda表达式展示了java生成的invokedynamic指令以及Bootstrap属性
  *
  */
-public class DynamicInvoke {   
+public class DynamicInvoke { 
     
     private void testLambda() {
         int a = 2;
