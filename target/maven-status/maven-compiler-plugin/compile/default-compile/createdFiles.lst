@@ -1,0 +1,8 @@
+com\gerald\jvm\chapter6\bytecode\BranchControl.class
+com\gerald\jvm\chapter7\loadclass\NonInitialization.class
+com\gerald\jvm\chapter2\outofmem\HeapOOM$OOMObject.class
+com\gerald\jvm\chapter7\loadclass\SubClass.class
+com\gerald\jvm\chapter2\outofmem\HeapOOM.class
+com\gerald\jvm\chapter7\loadclass\SuperClass.class
+com\gerald\jvm\chapter2\outofmem\HeapOOM$1.class
+com\gerald\jvm\App.class
